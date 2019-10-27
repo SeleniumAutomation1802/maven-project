@@ -1,0 +1,7 @@
+<suite name ="Test Maven suite">
+<test name = "Test maven testing">
+<package>
+<package name = "com.qa.test.*"/>
+</package>>
+</test>
+</suite>
